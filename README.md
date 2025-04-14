@@ -6,7 +6,6 @@
 
 [![AWS Solutions Architect Professional](https://img.shields.io/badge/AWS-Solutions%20Architect%20Professional-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/certified-solutions-architect-professional/)
 [![AWS DevOps Engineer Professional](https://img.shields.io/badge/AWS-DevOps%20Engineer%20Professional-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/certified-devops-engineer-professional/)
-[![Terraform Associate](https://img.shields.io/badge/HashiCorp-Terraform%20Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.hashicorp.com/certification/terraform-associate)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
 
 ## 👋 About Me
@@ -35,7 +34,7 @@ Experienced AWS Solutions Architect specializing in designing scalable, secure, 
       <h3><a href="https://github.com/your-username/serverless-event-driven-architecture">Event-Driven Microservices</a></h3>
       <img src="/api/placeholder/400/200" alt="Project Architecture" />
       <p>Scalable event-driven architecture using AWS serverless services with comprehensive observability.</p>
-      <p><strong>Technologies:</strong> Lambda, EventBridge, DynamoDB, SNS, SQS, X-Ray</p>
+      <p><strong>Technologies:</strong> Lambda, EventBridge, DynamoDB, SNS, SQS, API Gateway, CloudWatch, X-Ray Traces</p>
     </td>
   </tr>
   <tr>
