@@ -16,7 +16,7 @@ Experienced AWS Solutions Architect specializing in designing scalable, secure, 
 - **Cloud Architecture Design** - Multi-region, highly available architectures
 - **Infrastructure as Code** - Terraform, CloudFormation, AWS CDK
 - **Serverless Architecture** - Lambda, API Gateway, DynamoDB, Step Functions
-- **DevOps & CI/CD** - AWS CodePipeline, GitHub Actions, Jenkins
+- **DevOps & CI/CD** - Terraform Cloud, GitHub Actions, Harness
 - **Security & Compliance** - Zero Trust architectures, automated security controls
 - **Cost Optimization** - FinOps practices, resource optimization
 
