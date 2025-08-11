@@ -97,7 +97,9 @@
 ## 📈 Architecture Expertise
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x450/232F3E/FFFFFF?text=AWS+Architecture+Diagrams" alt="AWS Architecture Expertise" width="100%" />
+
+![Architecture Expertise](images/ArchitectureExpertise_Mermaid%20Chart-2025-08-11-015334.png)
+
 </div>
 
 **Specializing in designing and implementing:**
