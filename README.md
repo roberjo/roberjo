@@ -113,9 +113,9 @@
 
 ## 📚 Thought Leadership & Publications
 
-- **[Serverless Architecture Patterns for Enterprise Applications](https://github.com/roberjo/serverless-patterns)** - Scalable patterns for modern applications
-- **[Cost Optimization Strategies for AWS Infrastructure](https://github.com/roberjo/aws-cost-optimization)** - Practical FinOps implementation
-- **[Implementing Zero Trust Security in AWS](https://github.com/roberjo/aws-zero-trust)** - Security-first architecture design
+- **[Serverless Architecture Patterns for Enterprise Applications](serverless-patterns.md)** - Scalable patterns for modern applications
+- **[Cost Optimization Strategies for AWS Infrastructure](aws-cost-optimization.md)** - Practical FinOps implementation
+- **[Implementing Zero Trust Security in AWS](aws-zero-trust.md)** - Security-first architecture design
 
 ---
 
