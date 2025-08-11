@@ -119,22 +119,6 @@
 
 ---
 
-## 🏆 Certifications & Achievements
-
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Professional-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Solutions Architect Professional" />
-  <img src="https://img.shields.io/badge/AWS-DevOps%20Engineer%20Professional-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS DevOps Engineer Professional" />
-  <img src="https://img.shields.io/badge/AWS-Security%20Specialty-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Security Specialty" />
-  <img src="https://img.shields.io/badge/HashiCorp-Terraform%20Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform Associate" />
-</div>
-
-**Additional Achievements:**
-- 🏅 **AWS Community Builder** - Contributing to the AWS community
-- 📊 **FinOps Certified Practitioner** - Cost optimization expertise
-- 🔒 **Security+ Certified** - Cybersecurity fundamentals
-- 🎯 **Agile/Scrum Certified** - Project management methodologies
-
----
 
 ## 📫 Let's Connect
 
