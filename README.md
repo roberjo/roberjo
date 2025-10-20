@@ -1,7 +1,7 @@
 # John B. Roberts | AWS Solutions Architect
 
 <div align="center">
-  <img src="./images/1621588333437.jfif" alt="John B. Roberts - AWS Solutions Architect" width="100%" />
+  <img src="./images/Gemini_Generated_Image_ewxrfeewxrfeewxr.png" alt="John B. Roberts - AWS Solutions Architect" width="100%" />
   
   [![AWS Solutions Architect Professional](https://img.shields.io/badge/AWS-Solutions%20Architect%20Professional-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/certified-solutions-architect-professional/)
   [![AWS DevOps Engineer Professional](https://img.shields.io/badge/AWS-DevOps%20Engineer%20Professional-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/certified-devops-engineer-professional/)
@@ -16,6 +16,8 @@
 **Experienced AWS Solutions Architect** with a proven track record of designing and implementing enterprise-grade cloud solutions that drive business transformation. I specialize in building **scalable, secure, and cost-optimized** architectures that enable organizations to innovate faster while maintaining operational excellence.
 
 ### 🎯 Core Competencies
+- 🤖 **AI Solutions Developer** delivering NLP, LLM, and sentiment analysis systems — deployed serverlessly at scale.  
+- 🔒 Advocate for **secure**, **cost-optimized**, and **observable** solutions that meet enterprise SLAs.  
 - **🏗️ Cloud Architecture Design** - Multi-region, highly available, fault-tolerant architectures
 - **⚡ Infrastructure as Code** - Terraform, CloudFormation, AWS CDK expertise
 - **🔄 Serverless & Event-Driven** - Lambda, API Gateway, DynamoDB, EventBridge, Step Functions
@@ -28,37 +30,39 @@
 
 ## 💼 Featured Projects
 
-### 🏢 Enterprise Multi-Account AWS Organization
-**A comprehensive AWS organization setup with automated account provisioning, centralized security, and governance controls.**
+### 🧾 [intellidoc-rag-system](https://github.com/roberjo/intellidoc-rag-system)
+**Retrieval-Augmented Generation (RAG) Document Intelligence**  
+> Intelligent document processing system that uses vector embeddings and LLMs to summarize, query, and interpret large document sets.  
+> Ideal for enterprise document automation and knowledge retrieval.  
+**Tech:** Python · LangChain · OpenAI API · FAISS · AWS Lambda  
+![LangChain](https://img.shields.io/badge/LangChain-1E1E1E?style=flat-square&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-2F4F4F?style=flat-square)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
 
-- **🔧 Technologies:** Terraform, AWS Organizations, Control Tower, Security Hub, AWS Config
-- **🎯 Key Features:** Automated account vending, centralized logging, security guardrails, compliance monitoring
-- **📈 Impact:** Reduced account setup time by 80%, improved security posture by 60%
-- **🔗 [View Project](https://github.com/roberjo/aws-multi-account-organization)**
+---
 
-### 🚀 Event-Driven Microservices Platform
-**Scalable serverless architecture handling millions of events with comprehensive observability and monitoring.**
+### 💬 [AdPilot](https://github.com/roberjo/AdPilot)
+**Conversational AdTech Agent**  
+> A generative AI system that autonomously optimizes ad campaigns through NLP-driven engagement and adaptive learning.  
+> Integrates analytics and conversation understanding to improve real-time campaign performance.  
+**Tech:** TypeScript · Node.js · LangChain · OpenAI API · AWS EventBridge  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1E1E1E?style=flat-square&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
-- **🔧 Technologies:** Lambda, EventBridge, DynamoDB, SNS, SQS, API Gateway, CloudWatch, X-Ray
-- **🎯 Key Features:** Event-driven processing, auto-scaling, real-time monitoring, distributed tracing
-- **📈 Impact:** 99.9% uptime, 50% cost reduction vs traditional architecture
-- **🔗 [View Project](https://github.com/roberjo/serverless-event-driven-platform)**
+---
 
-### 🔒 AWS Security Baseline Automation
-**Automated security framework ensuring continuous compliance and threat detection across AWS environments.**
+### 🛡️ [role-fusion](https://github.com/roberjo/role-fusion)
+**Dynamic Role-Based Access Control Platform**  
+> Modern RBAC system with granular permissions, dynamic roles, and an elegant React + Tailwind UI.  
+> Enables secure, scalable user management for enterprise SaaS environments.  
+**Tech:** React · TypeScript · Tailwind CSS · Node.js · JWT Authentication  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-- **🔧 Technologies:** AWS Config, Security Hub, CloudTrail, Lambda, GuardDuty
-- **🎯 Key Features:** Automated compliance checks, real-time threat detection, remediation workflows
-- **📈 Impact:** 90% reduction in security incidents, automated compliance reporting
-- **🔗 [View Project](https://github.com/roberjo/aws-security-baseline)**
-
-### 🔄 Enterprise CI/CD Pipeline
-**Production-grade deployment pipeline with multi-environment support, approval gates, and comprehensive testing.**
-
-- **🔧 Technologies:** CodePipeline, CodeBuild, CloudFormation, GitHub Actions, Terraform Cloud
-- **🎯 Key Features:** Multi-environment deployments, automated testing, rollback capabilities, security scanning
-- **📈 Impact:** 70% faster deployments, 95% reduction in deployment failures
-- **🔗 [View Project](https://github.com/roberjo/enterprise-cicd-pipeline)**
 
 ---
 
