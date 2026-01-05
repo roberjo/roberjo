@@ -120,7 +120,7 @@
 - **[Serverless Architecture Patterns for Enterprise Applications](serverless-patterns.md)** - Scalable patterns for modern applications
 - **[Cost Optimization Strategies for AWS Infrastructure](aws-cost-optimization.md)** - Practical FinOps implementation
 - **[Implementing Zero Trust Security in AWS](aws-zero-trust.md)** - Security-first architecture design
-
+- **[Production Ready Microfrontend Build with Codex](Microfrontends-Build.md)** - ChatGPT Codex build of a React Portal that utilizes microfrontends
 ---
 
 
