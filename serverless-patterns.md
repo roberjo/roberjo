@@ -1,6 +1,6 @@
 # Serverless Architecture Patterns for Enterprise Applications
 
-*By John B. Roberts | AWS Solutions Architect*
+*By John B. Roberts | Cloud Solutions Architect*
 
 *Published: December 2024*
 

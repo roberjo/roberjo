@@ -1,10 +1,8 @@
-# John B. Roberts | AWS Solutions Architect · AI Automation
+# John B. Roberts | Cloud Solutions Architect · AI Automation
 
 <div align="center">
-  <img src="./images/Gemini_Generated_Image_ewxrfeewxrfeewxr.png" alt="John B. Roberts - AWS Solutions Architect" width="100%" />
+  <img src="./images/Gemini_Generated_Image_ewxrfeewxrfeewxr.png" alt="John B. Roberts at work in a server room" width="100%" />
 
-  [![AWS Solutions Architect Professional](https://img.shields.io/badge/AWS-Solutions%20Architect%20Professional-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/certified-solutions-architect-professional/)
-  [![AWS DevOps Engineer Professional](https://img.shields.io/badge/AWS-DevOps%20Engineer%20Professional-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/certified-devops-engineer-professional/)
   [![Blog](https://img.shields.io/badge/Blog-roberjo.github.io-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://roberjo.github.io)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/roberjo)
   [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnbroberts@gmail.com)

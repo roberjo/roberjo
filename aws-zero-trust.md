@@ -1,6 +1,6 @@
 # Implementing Zero Trust Security in AWS
 
-*By John B. Roberts | AWS Solutions Architect*
+*By John B. Roberts | Cloud Solutions Architect*
 
 *Published: December 2024*
 
